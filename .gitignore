@@ -1,0 +1,7 @@
+node_modules/
+.env
+*.log
+drop-scan-seen.json
+hold-mint.json
+outlaws-retry-done.txt
+.DS_Store
